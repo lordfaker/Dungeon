@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EE445862-9677-E101-055A-E493C6667C4A}") = "Dungeon3D", "Assembly-CSharp.csproj", "{7AC3E118-0D88-9771-CE47-61EEF7F97C3B}"
+EndProject
+Project("{EE445862-9677-E101-055A-E493C6667C4A}") = "Dungeon3D", "Assembly-CSharp-Editor.csproj", "{7EF768C3-241D-70CB-D115-32FE2E2D02BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AC3E118-0D88-9771-CE47-61EEF7F97C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC3E118-0D88-9771-CE47-61EEF7F97C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC3E118-0D88-9771-CE47-61EEF7F97C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC3E118-0D88-9771-CE47-61EEF7F97C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EF768C3-241D-70CB-D115-32FE2E2D02BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF768C3-241D-70CB-D115-32FE2E2D02BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF768C3-241D-70CB-D115-32FE2E2D02BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF768C3-241D-70CB-D115-32FE2E2D02BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
